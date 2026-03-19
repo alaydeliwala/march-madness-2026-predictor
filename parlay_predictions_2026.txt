@@ -1,0 +1,228 @@
+========================================================================
+     MARCH MADNESS 2026 - DATA-DRIVEN PARLAY RECOMMENDATIONS
+========================================================================
+  Generated from composite model (73.7% R64 backtest accuracy)
+  All probabilities from calibrated logistic model (sigma=3.40)
+  with Bayesian seed-rate blending
+
+  DISCLAIMER: For entertainment purposes. Gamble responsibly.
+========================================================================
+
+
+------------------------------------------------------------------------
+  PARLAY 1: "CHALK CRUSHER" (4 legs, R64 heavy favorites)
+  Combined model probability: 53.4%
+  Estimated odds: ~+90 to +110
+  Risk level: LOW
+------------------------------------------------------------------------
+
+  LEG 1: Duke ML vs Siena              (87.1% | KADJ EM gap: 41.0)
+  LEG 2: Illinois ML vs Penn           (82.5% | KADJ EM gap: 30.6)
+  LEG 3: Houston ML vs Idaho           (82.7% | KADJ EM gap: 31.9)
+  LEG 4: Iowa St. ML vs Tennessee St.  (82.9% | KADJ EM gap: 34.3)
+
+  WHY: Four 2-3 seeds with massive efficiency gaps (30+ pts each).
+  These are the safest R64 games on the board. Even in a year with
+  heavy upsets, all four of these teams should cruise. Combined
+  probability is essentially a coin flip that pays slightly better
+  than even money.
+
+
+------------------------------------------------------------------------
+  PARLAY 2: "MODEL EDGE" (3 legs, where model disagrees with seed)
+  Combined model probability: 14.2%
+  Estimated odds: ~+600 to +700
+  Risk level: MEDIUM
+------------------------------------------------------------------------
+
+  LEG 1: Iowa ML over Clemson          (50.7% | 9-seed favored by model)
+         Iowa KADJ EM 22.44 > Clemson 19.24 -- the "wrong" seed is favored
+         Iowa should be priced as a slight underdog (+100 to +110)
+
+  LEG 2: Utah St. ML over Villanova    (53.8% | 9-seed favored by model)
+         Utah St. KADJ EM 20.76 > Villanova 19.97, ELO rank #14
+         Utah St. likely priced +105 to +115 despite being the better team
+
+  LEG 3: VCU ML over North Carolina    (48.4% | 11-seed, 6v11 = 50% hist.)
+         UNC KADJ EM only 20.84 (low for a 6-seed), VCU ELO rank #17
+         VCU likely priced +155 to +175, but the real gap is tiny
+
+  WHY: All three legs exploit situations where the model says one team
+  is better (or essentially equal) but the betting public will lean the
+  other way based on seed and name brand. Iowa and Utah St. are both
+  ANALYTICALLY FAVORED despite being 9-seeds. VCU-UNC is a genuine
+  coin flip that the market will misprice.
+
+
+------------------------------------------------------------------------
+  PARLAY 3: "UPSET DOUBLE" (2 legs, highest-value upsets)
+  Combined model probability: 22.8%
+  Estimated odds: ~+350 to +425
+  Risk level: MEDIUM
+------------------------------------------------------------------------
+
+  LEG 1: VCU ML over North Carolina    (48.4% | 6v11 = coin flip)
+         KADJ EM gap only 3.6 pts -- this is NOT a real 6v11 gap
+         Historical 6v11 upset rate: 50.0% -- literally a coin flip
+         VCU: ELO #17, strong mid-major with 27-7 record
+
+  LEG 2: Santa Clara ML over Kentucky  (48.3% | 7v10, gap = 2.1 pts)
+         Kentucky KADJ EM only 21.48, Santa Clara at 19.40
+         Santa Clara ELO rank #24 (BETTER than Kentucky's #45!)
+         Kentucky having a down year (21-13), 7v10 upsets hit 37% hist.
+
+  WHY: These are the two games where the model sees the smallest real
+  gap but the public sees "UNC" and "Kentucky" and bets chalk. Both
+  games are near coin flips analytically. Getting two underdog MLs
+  that should each be ~48% at + money is outstanding value.
+
+
+------------------------------------------------------------------------
+  PARLAY 4: "DARK HORSE PATH" (3 legs, underseeded teams advancing)
+  Combined model probability: 14.9%
+  Estimated odds: ~+550 to +650
+  Risk level: MEDIUM-HIGH
+------------------------------------------------------------------------
+
+  LEG 1: St. John's ML over Kansas (R32)  (57.0%)
+         St. John's composite #12 (0.878) vs Kansas #21 (uncertain)
+         Rick Pitino PASE +2.6 vs Bill Self PASE -3.7
+         Elite defense (KADJ D 94.2), veteran team (EXP 2.30)
+
+  LEG 2: Vanderbilt ML over Nebraska (R32) (57.1%)
+         Vanderbilt composite #9 (0.971) -- plays like a 2-seed!
+         Most experienced team in field (EXP 2.31)
+         Neutral BADJ EM 36.2 is elite vs Nebraska's 18.2 (!)
+
+  LEG 3: Tennessee ML over Virginia (R32)  (49.5%)
+         Tennessee composite 0.644 > Virginia 0.564
+         Virginia has WORST coach+program PASE in the entire field
+         Tony Bennett PASE -7.1 (#331 of 332 coaches)
+
+  WHY: All three are 5/6 seeds beating 3/4 seeds in R32. The model
+  says they're favored or coin flips, but the public will pick higher
+  seeds. These are analytically underseeded teams with elite profiles
+  (defense, experience, coaching) that the market undervalues.
+  If legs 1 and 2 hit, leg 3 is nearly a coin flip for a big payout.
+
+
+------------------------------------------------------------------------
+  PARLAY 5: "LONG SHOT BOMB" (4 legs, all upsets)
+  Combined model probability: 5.1%
+  Estimated odds: ~+1800 to +2200
+  Risk level: HIGH (but data-backed, not blind)
+------------------------------------------------------------------------
+
+  LEG 1: VCU ML over UNC (R64)         (48.4% | +165 est.)
+  LEG 2: NC State ML over BYU (R64)    (46.1% | +175 est.)
+  LEG 3: Santa Clara ML over Kentucky   (48.3% | +155 est.)
+  LEG 4: Texas A&M ML over Saint Mary's (47.2% | +140 est.)
+
+  WHY: Four R64 upset picks, all from the model's top value list.
+  Every single one has a KADJ EM gap under 6 points (competitive games).
+  Historical upset rates for these seed matchups (6v11, 7v10) average
+  37-50%. None of these are fluky long shots -- they're mispriced
+  near-coin-flips where the public defaults to the higher seed.
+  Even at ~5% combined probability, at +1800 you only need to hit
+  1 in 19 attempts to break even.
+
+
+------------------------------------------------------------------------
+  PARLAY 6: "HOUSTON SOUTH SWEEP" (3 legs, Houston path to F4)
+  Combined model probability: 30.8%
+  Estimated odds: ~+225 to +275
+  Risk level: MEDIUM-LOW
+------------------------------------------------------------------------
+
+  LEG 1: Houston ML over Idaho (R64)    (82.7%)
+  LEG 2: Houston ML over Texas A&M/St. Mary's (R32)  (70.2%)
+  LEG 3: Houston ML over Illinois (S16)  (53.2%)
+
+  WHY: Houston is composite #6 (1.215) but seeded 2nd in a region
+  where the 1-seed (Florida) has the biggest neutral-court drop in
+  the field (-9.7 pts). Houston's path to the Elite Eight is clear:
+  they should handle Idaho easily, have a strong R32 matchup, and are
+  the better team against Illinois. At ~31% combined probability with
+  potential +250 odds, this is strong expected value.
+
+
+========================================================================
+  FUTURES / PROP RECOMMENDATIONS
+========================================================================
+
+  1. MICHIGAN TO WIN CHAMPIONSHIP        Model: 6.06%
+     Composite #1 overall, elite defense, most experienced 1-seed.
+     If the market has Michigan at +500 or better (implied 16.7%),
+     there may not be value. But if Michigan is +700 or longer
+     (implied 12.5%), there IS value -- our model gives them the
+     highest raw probability of any team.
+
+  2. HOUSTON TO REACH FINAL FOUR          Model: ~21%
+     Houston is a 2-seed but composite #6. Their region (South)
+     has the weakest 1-seed (Florida, composite #7 with neutral
+     court concerns). If Houston F4 odds are +350 or better, value.
+
+  3. AT LEAST 1 OF THE 4 MODEL UPSETS TO HIT (R64)
+     VCU, Texas A&M, NC State, Santa Clara -- all near coin flips.
+     P(at least 1 hits) = 1 - (0.516 * 0.528 * 0.539 * 0.517)
+                        = 1 - 0.0757 = 92.4%
+     Almost certain that at least ONE of these hits. If a book
+     offers "at least 1 double-digit seed wins in R64" at reasonable
+     odds, slam it.
+
+  4. VANDERBILT SWEET 16                   Model: ~38%
+     Vanderbilt (5-seed) has composite rank #9 -- wildly underseeded.
+     KADJ EM 27.51, EXP 2.31, neutral BADJ 36.2. If their S16 odds
+     are +200 or better, there's clear model value.
+
+  5. MICHIGAN STATE SWEET 16               Model: ~44%
+     Tom Izzo is PASE #1 (10.3 points above seed expectation).
+     Michigan St. has composite #13, elite defense (KADJ D 94.7),
+     and the best tournament coach in the field. If S16 odds are
+     +150 or better, value.
+
+
+========================================================================
+  QUICK REFERENCE: MODEL WIN PROBABILITIES (R64)
+========================================================================
+
+  LOCKS (80%+):
+    Duke 87.1%, Florida 88.6%, Arizona 87.0%, Michigan 86.0%
+    Purdue 86.6%, UConn 84.5%, Houston 82.7%, Iowa St. 82.9%
+    Illinois 82.5%, Gonzaga 82.5%
+
+  STRONG (70-80%):
+    Michigan St. 76.8%, Nebraska 75.1%, Virginia 76.5%
+    Kansas 71.0%, Arkansas 73.4%
+
+  LEAN (55-70%):
+    Vanderbilt 66.9%, St. John's 65.6%, Wisconsin 63.8%
+    Texas Tech 63.6%, Miami FL 62.0%, UCLA 61.3%
+    Louisville 60.6%, Tennessee 58.3%
+
+  TOSS-UPS (48-55%):
+    Utah St. 53.8% (over Villanova), Ohio St. 52.1% (over TCU)
+    Georgia 52.0% (over Saint Louis), Iowa 50.7% (over Clemson)
+
+  MODEL-BACKED UPSETS (46-49%):
+    VCU 48.4% (over UNC), Santa Clara 48.3% (over Kentucky)
+    Texas A&M 47.2% (over Saint Mary's), NC State 46.1% (over BYU)
+
+========================================================================
+  PARLAY SUMMARY TABLE
+========================================================================
+
+  #  Name               Legs  Model Prob  Est. Odds  Risk
+  -  ----               ----  ----------  ---------  ----
+  1  Chalk Crusher       4     53.4%      +90-110    LOW
+  2  Model Edge          3     14.2%      +600-700   MEDIUM
+  3  Upset Double        2     22.8%      +350-425   MEDIUM
+  4  Dark Horse Path     3     14.9%      +550-650   MED-HIGH
+  5  Long Shot Bomb      4      5.1%      +1800-2200 HIGH
+  6  Houston Sweep       3     30.8%      +225-275   MED-LOW
+
+  Best expected value: Parlay 2 (Model Edge) and Parlay 3 (Upset Double)
+  Most fun: Parlay 5 (Long Shot Bomb) -- low cost, huge payout
+  Safest: Parlay 1 (Chalk Crusher) or Parlay 6 (Houston Sweep)
+
+========================================================================

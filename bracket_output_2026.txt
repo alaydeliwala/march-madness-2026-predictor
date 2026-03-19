@@ -1,0 +1,276 @@
+Loading data...
+Computing seed base rates...
+Calibrating model via backtesting (2012-2025)...
+  Best sigma: 3.40 (R64 accuracy: 73.7%)
+  Backtest results by year:
+    2012: 24/32 (75.0%)
+    2013: 22/32 (68.8%)
+    2014: 26/32 (81.2%)
+    2015: 25/32 (78.1%)
+    2016: 22/32 (68.8%)
+    2017: 28/32 (87.5%)
+    2018: 22/32 (68.8%)
+    2019: 23/32 (71.9%)
+    2021: 20/31 (64.5%)
+    2022: 23/32 (71.9%)
+    2023: 25/32 (78.1%)
+    2024: 20/32 (62.5%)
+    2025: 26/32 (81.2%)
+
+Computing 2026 composite ratings...
+  68 tournament teams rated
+    Michigan               Seed  1  Composite: 1.5427
+    Arizona                Seed  1  Composite: 1.5092
+    Duke                   Seed  1  Composite: 1.4036
+    Purdue                 Seed  2  Composite: 1.3481
+    Iowa St.               Seed  2  Composite: 1.3024
+
+Parsing 2026 bracket...
+  4 regions, 4 First Four games
+    FF1: (16) Lehigh vs (16) Prairie View A&M
+    FF2: (11) North Carolina St. vs (11) Texas
+    FF3: (16) Howard vs (16) UMBC
+    FF4: (11) SMU vs (11) Miami OH
+
+Simulating bracket...
+
+
+========================================================================
+      MARCH MADNESS 2026 - POOL-WINNING BRACKET
+========================================================================
+
+STRATEGY SUMMARY:
+  Contrarian upsets picked: 5 of 67 games
+  Upset picks create ~3 differentiation points
+  Backtest R64 accuracy (2012-2025): 73.7%
+  Calibrated sigma: 3.40
+
+------------------------------------------------------------------------
+FIRST FOUR:
+------------------------------------------------------------------------
+  (16) Lehigh               vs (16) Prairie View A&M     --> Prairie View A&M     ( 51.2% | TOSS-UP)
+  (11) North Carolina St.   vs (11) Texas                --> North Carolina St.   ( 52.3% | TOSS-UP)
+  (16) Howard               vs (16) UMBC                 --> UMBC                 ( 58.8% | TOSS-UP)
+  (11) SMU                  vs (11) Miami OH             --> SMU                  ( 63.7% | LEAN)
+
+========================================================================
+  EAST REGION
+========================================================================
+
+  ROUND OF 64:
+  ( 1) Duke                 vs (16) Siena                --> Duke                 ( 87.1% | STRONG)
+  ( 8) Ohio St.             vs ( 9) TCU                  --> Ohio St.             ( 52.1% | TOSS-UP)
+  ( 5) St. John's           vs (12) Northern Iowa        --> St. John's           ( 65.6% | LEAN)
+  ( 4) Kansas               vs (13) Cal Baptist          --> Kansas               ( 71.0% | LEAN)
+  ( 6) Louisville           vs (11) South Florida        --> Louisville           ( 60.6% | LEAN)
+  ( 3) Michigan St.         vs (14) North Dakota St.     --> Michigan St.         ( 76.8% | STRONG)
+  ( 7) UCLA                 vs (10) UCF                  --> UCLA                 ( 61.3% | LEAN)
+  ( 2) Connecticut          vs (15) Furman               --> Connecticut          ( 84.5% | STRONG)
+
+  ROUND OF 32:
+  ( 1) Duke                 vs ( 8) Ohio St.             --> Duke                 ( 69.1% | LEAN)
+  ( 5) St. John's           vs ( 4) Kansas               --> St. John's           ( 57.0% | TOSS-UP)
+  ( 6) Louisville           vs ( 3) Michigan St.         --> Michigan St.         ( 56.9% | TOSS-UP)
+  ( 7) UCLA                 vs ( 2) Connecticut          --> Connecticut          ( 60.9% | LEAN)
+
+  SWEET SIXTEEN:
+  ( 1) Duke                 vs ( 5) St. John's           --> Duke                 ( 60.0% | TOSS-UP)
+  ( 3) Michigan St.         vs ( 2) Connecticut          --> Connecticut          ( 51.9% | TOSS-UP)
+
+  ELITE EIGHT:
+  ( 1) Duke                 vs ( 2) Connecticut          --> Duke                 ( 57.8% | TOSS-UP)
+
+  >> Regional Champion: (1) Duke
+
+========================================================================
+  SOUTH REGION
+========================================================================
+
+  ROUND OF 64:
+  ( 1) Florida              vs (16) Prairie View A&M     --> Florida              ( 88.6% | STRONG)
+  ( 8) Clemson              vs ( 9) Iowa                 --> Iowa                 ( 50.7% | TOSS-UP)
+  ( 5) Vanderbilt           vs (12) McNeese St.          --> Vanderbilt           ( 66.9% | LEAN)
+  ( 4) Nebraska             vs (13) Troy                 --> Nebraska             ( 75.1% | STRONG)
+  ( 6) North Carolina       vs (11) VCU                  --> VCU                  ( 48.4% | UPSET) ** UPSET **
+  ( 3) Illinois             vs (14) Penn                 --> Illinois             ( 82.5% | STRONG)
+  ( 7) Saint Mary's         vs (10) Texas A&M            --> Texas A&M            ( 47.2% | UPSET) ** UPSET **
+  ( 2) Houston              vs (15) Idaho                --> Houston              ( 82.7% | STRONG)
+
+  ROUND OF 32:
+  ( 1) Florida              vs ( 9) Iowa                 --> Florida              ( 63.8% | LEAN)
+  ( 5) Vanderbilt           vs ( 4) Nebraska             --> Vanderbilt           ( 57.1% | TOSS-UP)
+  (11) VCU                  vs ( 3) Illinois             --> Illinois             ( 67.6% | LEAN)
+  (10) Texas A&M            vs ( 2) Houston              --> Houston              ( 70.2% | LEAN)
+
+  SWEET SIXTEEN:
+  ( 1) Florida              vs ( 5) Vanderbilt           --> Florida              ( 52.5% | TOSS-UP)
+  ( 3) Illinois             vs ( 2) Houston              --> Houston              ( 53.2% | TOSS-UP)
+
+  ELITE EIGHT:
+  ( 1) Florida              vs ( 2) Houston              --> Houston              ( 52.2% | TOSS-UP)
+
+  >> Regional Champion: (2) Houston
+
+========================================================================
+  WEST REGION
+========================================================================
+
+  ROUND OF 64:
+  ( 1) Arizona              vs (16) LIU Brooklyn         --> Arizona              ( 87.0% | STRONG)
+  ( 8) Villanova            vs ( 9) Utah St.             --> Utah St.             ( 53.8% | TOSS-UP)
+  ( 5) Wisconsin            vs (12) High Point           --> Wisconsin            ( 63.8% | LEAN)
+  ( 4) Arkansas             vs (13) Hawaii               --> Arkansas             ( 73.4% | LEAN)
+  ( 6) BYU                  vs (11) North Carolina St.   --> North Carolina St.   ( 46.1% | UPSET) ** UPSET **
+  ( 3) Gonzaga              vs (14) Kennesaw St.         --> Gonzaga              ( 82.5% | STRONG)
+  ( 7) Miami FL             vs (10) Missouri             --> Miami FL             ( 62.0% | LEAN)
+  ( 2) Purdue               vs (15) Queens               --> Purdue               ( 86.6% | STRONG)
+
+  ROUND OF 32:
+  ( 1) Arizona              vs ( 9) Utah St.             --> Arizona              ( 70.3% | LEAN)
+  ( 5) Wisconsin            vs ( 4) Arkansas             --> Arkansas             ( 57.7% | TOSS-UP)
+  (11) North Carolina St.   vs ( 3) Gonzaga              --> Gonzaga              ( 65.0% | LEAN)
+  ( 7) Miami FL             vs ( 2) Purdue               --> Purdue               ( 69.0% | LEAN)
+
+  SWEET SIXTEEN:
+  ( 1) Arizona              vs ( 4) Arkansas             --> Arizona              ( 62.9% | LEAN)
+  ( 3) Gonzaga              vs ( 2) Purdue               --> Purdue               ( 56.4% | TOSS-UP)
+
+  ELITE EIGHT:
+  ( 1) Arizona              vs ( 2) Purdue               --> Arizona              ( 53.1% | TOSS-UP)
+
+  >> Regional Champion: (1) Arizona
+
+========================================================================
+  MIDWEST REGION
+========================================================================
+
+  ROUND OF 64:
+  ( 1) Michigan             vs (16) UMBC                 --> Michigan             ( 86.0% | STRONG)
+  ( 8) Georgia              vs ( 9) Saint Louis          --> Georgia              ( 52.0% | TOSS-UP)
+  ( 5) Texas Tech           vs (12) Akron                --> Texas Tech           ( 63.6% | LEAN)
+  ( 4) Alabama              vs (13) Hofstra              --> Alabama              ( 69.1% | LEAN)
+  ( 6) Tennessee            vs (11) SMU                  --> Tennessee            ( 58.3% | TOSS-UP)
+  ( 3) Virginia             vs (14) Wright St.           --> Virginia             ( 76.5% | STRONG)
+  ( 7) Kentucky             vs (10) Santa Clara          --> Santa Clara          ( 48.3% | UPSET) ** UPSET **
+  ( 2) Iowa St.             vs (15) Tennessee St.        --> Iowa St.             ( 82.9% | STRONG)
+
+  ROUND OF 32:
+  ( 1) Michigan             vs ( 8) Georgia              --> Michigan             ( 74.7% | LEAN)
+  ( 5) Texas Tech           vs ( 4) Alabama              --> Alabama              ( 53.5% | TOSS-UP)
+  ( 6) Tennessee            vs ( 3) Virginia             --> Tennessee            ( 49.5% | UPSET) ** UPSET **
+  (10) Santa Clara          vs ( 2) Iowa St.             --> Iowa St.             ( 71.1% | LEAN)
+
+  SWEET SIXTEEN:
+  ( 1) Michigan             vs ( 4) Alabama              --> Michigan             ( 65.9% | LEAN)
+  ( 6) Tennessee            vs ( 2) Iowa St.             --> Iowa St.             ( 61.2% | LEAN)
+
+  ELITE EIGHT:
+  ( 1) Michigan             vs ( 2) Iowa St.             --> Michigan             ( 54.5% | TOSS-UP)
+
+  >> Regional Champion: (1) Michigan
+
+========================================================================
+  FINAL FOUR
+========================================================================
+  ( 1) Duke                 vs ( 2) Houston              --> Duke                 ( 53.7% | TOSS-UP)
+  ( 1) Arizona              vs ( 1) Michigan             --> Michigan             ( 50.5% | TOSS-UP)
+
+  NATIONAL CHAMPIONSHIP:
+  ( 1) Duke                 vs ( 1) Michigan             --> Michigan             ( 52.0% | TOSS-UP)
+
+========================================================================
+  CHAMPION: (1) Michigan
+  Championship path probability: 6.06%
+  Composite rating: 1.543 (#1 overall)
+  Bracket log-confidence: -31.28
+
+  WHY THIS CHAMPION:
+    - KADJ EM: 37.6 | Defense (KADJ D): 89.0 | Exp: 1.95
+    - Composite rank #1 among all D1 teams
+    - Est. public championship pick rate: ~22%
+    - Creates pool differentiation vs chalk favorites
+========================================================================
+
+FINAL FOUR:
+  EAST      : (1) Duke                 [Composite: 1.404]
+  SOUTH     : (2) Houston              [Composite: 1.215]
+  WEST      : (1) Arizona              [Composite: 1.509]
+  MIDWEST   : (1) Michigan             [Composite: 1.543]
+
+------------------------------------------------------------------------
+TOP VALUE PICKS (where we differ from chalk):
+------------------------------------------------------------------------
+  1. [R64] (11) VCU                over (6) North Carolina     -- Model: 48%, Public: ~38% --> HIGH LEVERAGE
+       WHY: 6v11 upsets hit ~35-49% historically
+  2. [R64] (10) Texas A&M          over (7) Saint Mary's       -- Model: 47%, Public: ~42% --> HIGH LEVERAGE
+       WHY: 7v10 upsets hit ~35-49% historically
+  3. [R64] (11) North Carolina St. over (6) BYU                -- Model: 46%, Public: ~38% --> HIGH LEVERAGE
+       WHY: 6v11 upsets hit ~35-49% historically
+  4. [R64] (10) Santa Clara        over (7) Kentucky           -- Model: 48%, Public: ~42% --> HIGH LEVERAGE
+       WHY: 7v10 upsets hit ~35-49% historically
+  5. [R32] (6) Tennessee          over (3) Virginia           -- Model: 50%, Public: ~53% --> HIGH LEVERAGE
+       WHY: composite 0.64 > 0.56
+
+------------------------------------------------------------------------
+TOP 15 TEAMS BY COMPOSITE RATING:
+------------------------------------------------------------------------
+  Rank  Team                   Seed  Composite  KADJ EM  BADJ EM
+  --------------------------------------------------------------
+  1     Michigan                  1     1.5427    37.59    36.59
+  2     Arizona                   1     1.5092    37.66    35.53
+  3     Duke                      1     1.4036    38.90    37.32
+  4     Purdue                    2     1.3481    31.20    33.04
+  5     Iowa St.                  2     1.3024    32.42    31.14
+  6     Houston                   2     1.2148    33.43    32.98
+  7     Florida                   1     1.0490    33.79    33.84
+  8     Illinois                  3     1.0287    32.10    33.74
+  9     Vanderbilt                5     0.9713    27.51    28.11
+  10    Connecticut               2     0.9695    27.87    28.12
+  11    Gonzaga                   3     0.9514    28.10    26.26
+  12    St. John's                5     0.8785    25.91    25.71
+  13    Michigan St.              3     0.8675    28.31    26.73
+  14    Arkansas                  4     0.7886    26.05    26.27
+  15    Tennessee                 6     0.6441    26.02    25.97
+
+------------------------------------------------------------------------
+KEY ANALYTICAL INSIGHTS:
+------------------------------------------------------------------------
+  RED FLAGS (teams at risk of early exit):
+    - Duke (1): EXP 0.86 -- youngest team in tourney (freshman risk)
+    - Florida (1): Neutral BADJ EM drops 9.7 pts from overall
+    - Alabama (4): 53.7% of shots from 3 -- most volatile offense
+    - Wisconsin (5): Neutral BADJ EM drops 9.1 pts from overall
+    - Virginia (3): Worst coach+program PASE in field (-7.1/-7.6)
+
+  DARK HORSES (underseeded teams with elite profiles):
+    - Vanderbilt (5): Plays like a 2-seed, EXP 2.31, KADJ EM 27.5
+    - St. John's (5): Elite defense (KADJ D 94.2), EXP 2.30
+    - Tennessee (6): KADJ EM 26.0 + elite D (95.0) -- underseeded
+    - Iowa (9): KADJ EM 22.4 > Clemson 19.2 -- analytically favored
+    - Utah St. (9): ELO rank 14 (!), model favors over Villanova
+
+  COACHING EDGES:
+    - Tom Izzo (Michigan St.): #1 PASE, 88.6% F4 probability
+    - John Calipari (Arkansas): #2 PASE, 99% F4 probability
+    - Dan Hurley (Connecticut): #6 PASE, back-to-back champion
+    - Dusty May (Michigan): #17 PASE, rising tournament coach
+
+  HISTORICAL CONTEXT (from 2012-2025 backtest):
+    - 6v11 matchups: 50% upset rate -- true coin flips
+    - 5v12 matchups: 40.4% upset rate -- always consider the 12
+    - KADJ EM gap < 12: upset rate is 44% (competitive games)
+    - KADJ EM gap > 15: upset rate drops to 8% (safe favorites)
+
+------------------------------------------------------------------------
+IF YOU WANT TO GO BOLDER (flip these close games):
+------------------------------------------------------------------------
+  [   FF] (16) Lehigh               over (16) Prairie View A&M     (49% chance)
+  [   FF] (11) Texas                over (11) North Carolina St.   (48% chance)
+  [  R64] (8) Clemson              over (9) Iowa                 (49% chance)
+  [  R64] (9) Saint Louis          over (8) Georgia              (48% chance)
+  [  R64] (9) TCU                  over (8) Ohio St.             (48% chance)
+  [  R64] (8) Villanova            over (9) Utah St.             (46% chance)
+  [  R32] (5) Texas Tech           over (4) Alabama              (47% chance)
+  [  R32] (6) Louisville           over (3) Michigan St.         (43% chance)
+
+========================================================================
