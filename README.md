@@ -2,6 +2,9 @@
 
 A data-driven bracket prediction system that analyzes 38 CSV files spanning 2008-2026 to produce a **pool-optimized** bracket. The key differentiator: instead of just picking the most likely winners, the system identifies **contrarian value** -- teams the data says are strong but the public is sleeping on.
 
+<img width="1800" height="1188" alt="Screenshot 2026-03-19 at 10 30 51 AM" src="https://github.com/user-attachments/assets/e61a1e03-035f-4693-b7f0-22d11824d84f" />
+
+
 ## Quick Start
 
 ```bash
